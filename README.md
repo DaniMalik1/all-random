@@ -12,6 +12,8 @@ pkg install python2
 
 rm -rm Dani
 
+pkg install git
+
 git clone https://github.com/DaniMalik1/all-random.git
 
 cd all-random
